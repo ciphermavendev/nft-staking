@@ -1,4 +1,4 @@
-# nft-staking# NFT Staking Platform
+# NFT Staking Platform
 
 A decentralized NFT staking platform built on Ethereum using Hardhat, allowing users to stake their NFTs and earn reward tokens.
 
